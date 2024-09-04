@@ -1,3 +1,5 @@
 # Global Career Education Consultancy
 
-Welcome to the Global Career Education Consultancy repository! This project features a **responsive, dynamic website** designed to enhance user experience and showcase the consultancy's innovative approach to career education. The website reflects a commitment to leveraging technology to empower careers through cutting-edge design and seamless functionality.
+## Overview
+
+Welcome to the Global Career Education Consultancy repository! This project is a **responsive** and **dynamic** website developed for a **Career Education Consultancy Group**. It showcases my skills in web development, including front-end design, responsiveness, and dynamic content management. The website is designed to provide users with detailed information about the consultancy group's services, success stories, and educational resources.
